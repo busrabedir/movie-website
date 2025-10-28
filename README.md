@@ -15,7 +15,7 @@ Kullanıcıların popüler filmleri keşfetmesini, arama yapmasını ve film bil
 - 🔍 **Film Arama**: İsimle film arama özelliği
 - 🎞️ **Popüler Filmler**: TMDB API üzerinden güncel popüler filmleri gösterir
 - ⭐ **Puan Renkleri**: Filmlerin IMDb puanına göre renkli derecelendirme
-- 📱  **Responsive Tasarım**: Tüm cihazlarda uyumlu görünüm
+- 📱  **Responsive Tasarım**: Tüm cihazlara uyumlu görünüm
 
 
 ## 🛠️ Kullanılan Teknolojiler
